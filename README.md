@@ -1,19 +1,61 @@
 # 💫 About Me:
-Cloud & DevOps Engineer | AWS & GCP | Network Engineer Background | Infrastructure Automation
-<br><br>Cloud & DevOps Engineer with a strong Networking foundation, focused on designing, automating, and operating secure, scalable cloud infrastructure.<br>I bring 3 years of IT experience as a Network Engineer and hands-on cloud project experience across AWS (primary) and GCP (secondary).<br><br>I specialize in cloud networking, infrastructure automation, CI/CD pipelines, and production-ready architecture, bridging the gap between traditional networking and modern cloud-native systems.<br>
 
+# ☁️ Cloud & DevOps Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurav-kumar-165391203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.94217@gmail.com) 
+Cloud Engineer with **3+ years of Networking experience**, specializing in designing **secure, scalable, and cost-optimized cloud infrastructure** on AWS.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gauarv146&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gauarv146&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauarv146&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+✔ Strong foundation in **VPC design, subnetting, routing, and network security**
+✔ Hands-on experience with **Infrastructure as Code (Terraform)** and **CI/CD pipelines**
+✔ Built **production-style architectures** including 3-tier systems, serverless applications, and monitoring solutions
+
+Focused on bridging traditional networking with modern **cloud-native architectures**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gauarv146&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠 Tech Stack
+
+**Cloud:** AWS, GCP
+**Infrastructure:** Terraform, CloudFormation
+**Containers:** Docker, Kubernetes
+**CI/CD:** GitHub Actions, Jenkins
+**Monitoring:** CloudWatch, SNS
+**Networking:** VPC, Subnets, Route Tables, Security Groups
+**Languages:** Python, Bash
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AWS 3-Tier Architecture
+
+* Designed secure VPC with **public & private subnets**
+* Deployed application and database in **isolated layers**
+* Implemented **IAM roles & least privilege access**
+* Optimized architecture for **AWS Free Tier (cost-efficient design)**
+
+---
+
+### 🔹 Cloud Monitoring & Logging System
+
+* Built monitoring pipeline using **CloudWatch & SNS**
+* Configured **real-time alerts for CPU & system health**
+* Implemented centralized logging and alert notifications
+
+---
+
+### 🔹 Serverless File Upload System
+
+* Built serverless architecture using **API Gateway, Lambda, and S3**
+* Designed **event-driven workflow**
+* Implemented secure IAM role-based access
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurav-kumar-165391203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.94217@gmail.com) 
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
