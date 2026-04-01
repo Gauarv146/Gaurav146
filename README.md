@@ -1,25 +1,29 @@
-# 💫 About Me:
+# 👋 Hi, I'm Gaurav
 
-# ☁️ Cloud & DevOps Engineer
+### ☁️ Cloud & DevOps Engineer | AWS | CI/CD | Terraform
 
-Cloud Engineer with **3+ years of Networking experience**, specializing in designing **secure, scalable, and cost-optimized cloud infrastructure** on AWS.
+🚀 Cloud Engineer with **3+ years of networking experience**, focused on building **secure, scalable, and cost-efficient cloud infrastructure on AWS**.
 
-✔ Strong foundation in **VPC design, subnetting, routing, and network security**
-✔ Hands-on experience with **Infrastructure as Code (Terraform)** and **CI/CD pipelines**
-✔ Built **production-style architectures** including 3-tier systems, serverless applications, and monitoring solutions
+---
 
-Focused on bridging traditional networking with modern **cloud-native architectures**.
+## ⚡ What I Do
+
+* 🔹 Design **production-grade cloud architectures (3-tier, serverless)**
+* 🔹 Build and automate **CI/CD pipelines**
+* 🔹 Implement **Infrastructure as Code (Terraform)**
+* 🔹 Optimize **cost, performance, and security**
+* 🔹 Bridge **networking fundamentals with cloud-native systems**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Cloud:** AWS, GCP
-**Infrastructure:** Terraform, CloudFormation
-**Containers:** Docker, Kubernetes
+**IaC:** Terraform, CloudFormation
 **CI/CD:** GitHub Actions, Jenkins
+**Containers:** Docker, Kubernetes
 **Monitoring:** CloudWatch, SNS
-**Networking:** VPC, Subnets, Route Tables, Security Groups
+**Networking:** VPC, Subnets, Routing, Security Groups
 **Languages:** Python, Bash
 
 ---
@@ -28,34 +32,78 @@ Focused on bridging traditional networking with modern **cloud-native architectu
 
 ### 🔹 AWS 3-Tier Architecture
 
-* Designed secure VPC with **public & private subnets**
-* Deployed application and database in **isolated layers**
-* Implemented **IAM roles & least privilege access**
-* Optimized architecture for **AWS Free Tier (cost-efficient design)**
+✔ Secure VPC with public/private subnets
+✔ Isolated web, app, and DB layers
+✔ IAM least privilege implementation
+✔ Cost-optimized architecture
+
+🔗 Repo:[ https://github.com/Gaurav146/your-project](https://github.com/Gauarv146/aws-3tier-architecture-ec2-rds-alb)
 
 ---
 
-### 🔹 Cloud Monitoring & Logging System
+### 🔹 Static Website Hosting with CI/CD
 
-* Built monitoring pipeline using **CloudWatch & SNS**
-* Configured **real-time alerts for CPU & system health**
-* Implemented centralized logging and alert notifications
+✔ S3 + CloudFront deployment
+✔ GitHub Actions CI/CD automation
+✔ HTTPS with ACM
+✔ Cache invalidation for real-time updates
+
+🔗 Repo: [https://github.com/Gaurav146/your-project](https://github.com/Gauarv146/aws-static-website-s3-cloudfront-cicd)
+🌍 Live:[ https://dxxxxx.cloudfront.net](http://cloud-portfolio-static-website.s3-website.ap-south-1.amazonaws.com/)
 
 ---
 
 ### 🔹 Serverless File Upload System
 
-* Built serverless architecture using **API Gateway, Lambda, and S3**
-* Designed **event-driven workflow**
-* Implemented secure IAM role-based access
+✔ API Gateway + Lambda + S3
+✔ Event-driven architecture
+✔ Secure IAM role-based access
+
+🔗 Repo: [https://github.com/Gaurav146/your-project](https://github.com/Gauarv146/aws-serverless-file-upload-lambda-apigateway)
+
+---
+
+### 🔹 Cloud Monitoring & Logging System
+
+✔ CloudWatch + SNS alerts
+✔ Real-time monitoring pipeline
+✔ Centralized logging
+
+🔗 Repo: [https://github.com/Gaurav146/your-project](https://github.com/Gauarv146/aws-cloud-monitoring-system-cloudwatch-sns)
+
+---
+
+## 📊 Impact & Achievements
+
+* ⚡ Automated deployments → reduced manual effort by ~90%
+* 💰 Designed solutions within **AWS Free Tier (cost optimized)**
+* 🚀 Improved application delivery speed using CI/CD
+* 🔐 Implemented secure IAM and network architecture
+
+---
+
+### 🔹 AWS Architecture Overview
+
+![AWS Architecture](./aws-architecture-overview.png)
+
+## 📜 Certifications 
+
+* AWS Certified Solutions Architect – Associate
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurav-kumar-165391203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.94217@gmail.com) 
+* 💼 LinkedIn: https://linkedin.com/in/gaurav-kumar-165391203
+* 📧 Email: [gaurav.cloud46@gmail.com](mailto:gaurav.cloud46@gmail.com)
 
 ---
 
+## ⚡ Profile Vision
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Building scalable, secure, and automated cloud systems aligned with real-world production standards.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav146&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gaurav146)
+![Visitors](https://komarev.com/ghpvc/?username=Gaurav146)
+![CI](https://github.com/your-username/repo/actions/workflows/deploy.yml/badge.svg)
